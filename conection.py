@@ -1,0 +1,1 @@
+#cadena de conexion con mariadb
